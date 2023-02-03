@@ -12,7 +12,11 @@ import { ToolbarComponent } from './toolbar/toolbar.component';
     AppComponent,
     NavbarComponent,
    StudentsComponent,
+<<<<<<< HEAD
      ToolbarComponent
+=======
+    ToolbarComponent
+>>>>>>> desafioReactiveForms
   ],
   imports: [
     BrowserModule,
